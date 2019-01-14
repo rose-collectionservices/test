@@ -1,3 +1,3 @@
 # test
 
-I like this repository.
+This is a test repository.
