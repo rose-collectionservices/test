@@ -6,3 +6,5 @@ I like this repository.
 My birthday is in July.
 
 Making a commit.
+
+Making another commit.
