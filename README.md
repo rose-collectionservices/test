@@ -3,7 +3,7 @@
 This is a test repository.
 I like this repository.
 
-My birthday is in July.
+My birthday is in July-- LIES! My birthday is in September
 
 Making a commit.
 
@@ -15,3 +15,6 @@ List time!
 
 1. This is an ordered list
 2. numbers! 
+
+Hi Dorry. This is Sarah. I am practicing.
+
