@@ -2,7 +2,7 @@
 
 This is a test repository, I like this repository.
 
-My birthday is in July-- LIES! My birthday is in ~September~ October.
+My birthday is in July-- LIES! My birthday is in ~September~ ~October~ January.
 
 Making a commit.
 
@@ -25,6 +25,7 @@ List time!
 
 1. This is an ordered list
 2. numbers! 
+3. I've added more numbers!
 
 
 
