@@ -1,7 +1,6 @@
 # test
 
-This is a test repository.
-I like this repository.
+This is a test repository, I like this repository.
 
 My birthday is in July-- LIES! My birthday is in ~September~ October.
 
