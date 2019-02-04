@@ -9,6 +9,11 @@ Making a commit.
 I am making a change
 
 
+
+These are paragraphs from Jane Eyre.
+
+I am no longer a collaborator on this repo.
+=======
 Nought may endure but Mutability.
 
 
@@ -26,4 +31,5 @@ List time!
 Hi Dorry. This is Sarah. I am practicing.
 
 I am adding something very important.
+
 
